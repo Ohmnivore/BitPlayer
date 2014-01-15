@@ -3,7 +3,7 @@ BitPlayer
 http://ohmnivore.elementfx.com/
 
 This is a handy Adobe AIR app,
-handy for playing some chiptune in
+nice for playing some chiptune in
 its native formats (.MOD, .XM, and others).
 It's very basic and raw for now. It was
 built for my personal use at first. One
